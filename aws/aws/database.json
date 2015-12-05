@@ -1,0 +1,7 @@
+{
+  "host": "rds-service.letspretend-aws.com",
+  "port": 3306,
+  "database": "players",
+  "user": "root",
+  "password": "groovy"
+}
